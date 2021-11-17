@@ -53,7 +53,7 @@ class Ui_MainWindow1(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("Metax IDE", "Metax IDE"))
         self.newProject.setText(_translate("MainWindow", "NEW PROJECT"))
         self.openProject.setText(_translate("MainWindow", "OPEN PROJECT"))
 
